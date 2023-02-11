@@ -22,3 +22,5 @@ _You can view the discord.py docs [here](https://discordpy.readthedocs.io/en/sta
 Once all of this is set up, fill in the variable of the `main.py` file and run the file!
 
 If everything was set up right, the bot will be running.
+
+_[Discord developer portal](https://discord.com/developers/applications)_
